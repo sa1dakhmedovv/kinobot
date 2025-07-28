@@ -1,0 +1,3 @@
+# === CONFIG ===
+MAIN_ADMIN_ID = 5802051984  # Admin Telegram ID
+TOKEN = "7512808651:AAGAkGjEqMrlaEArV1HwO1ufZWWCnFvlydc"
